@@ -7,7 +7,7 @@
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sumukhalraju&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2)
 
 
-# Socials
+### Socials
 <p align="left">
   <a href="https://x.com/thenameisaquila" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
